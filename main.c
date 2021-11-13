@@ -19,8 +19,6 @@ int main(void)
 
     int win = 0;
 
-    printf("%d %d\n", advX, advY);
-
     do
     {
         int atkTeamX = -1;
